@@ -7,7 +7,7 @@ This app is created to show a clean ***MVVM (Model View View Model)*** architect
 
 >To successfully run the project just follow a simple instruction below:
 
-1. **Since this project uses free exchange rate api from [Open Exxchange Rates](https://openexchangerates.org/), so first you have to create a free account there.**
+1. **Since this project uses free exchange rate api from [Open Exchange Rates](https://openexchangerates.org/), so first you have to create a free account there.**
 2. **Then use your api key/ID to this field `static let appId = "Your API key"` in `ApiConstants` file.**
 3. **Finally run and see the exchange rates.**
 
