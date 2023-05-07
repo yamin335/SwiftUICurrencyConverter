@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yamin335/SwiftUICurrencyConverter/blob/main/screenshot.png" alt="Coder GIF" width="500">
+<img align="right" src="https://github.com/yamin335/SwiftUICurrencyConverter/blob/main/screenshot.png" alt="Coder GIF" width="300">
 
 <h1>SwiftUICurrencyConverter</h1>
 
